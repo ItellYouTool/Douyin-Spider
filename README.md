@@ -33,6 +33,9 @@ Douyin.Spider是一款颜值超高的抖音数据采集工具
     </tr>
         </tr>
 </table>
+## 视频演示
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114492939766628&bvid=BV1u1E5z9EgW&cid=29918431019&p=1"  style="width: 100%; height: 600px;" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ## 环境说明
 
